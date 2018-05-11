@@ -1,6 +1,6 @@
 # hmp_client
 
-Python-based client for downloading data files hosted by the Human Microbiome Data Analysis and Coordination Center (hmpdacc.org). The client accepts as input a *manifest file* that lists the files to be downloaded. Manifest files can be generated using the shopping cart in the query interface at https://portal.hmpdacc.org.
+Python-based client for downloading data files hosted by the Human Microbiome Data Analysis and Coordination Center (hmpdacc.org). The client accepts as input a *manifest file* that lists the files to be downloaded. Manifest files can be generated using the shopping cart in the query interface at https://portal.hmpdacc.org. An example manifest file can be found in the [test](https://github.com/mbonsma/hmp_client/blob/master/test/hmp_cart_example.tsv) folder.
 
 ## Running the client
 
